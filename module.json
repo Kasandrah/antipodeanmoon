@@ -8,7 +8,7 @@
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
     "url": "https://www.patreon.com/antipodeanmoon",
-    "manifest": "https://github.com/Kasandrah/antipodeanmoon/blob/main/module.json",
+    "manifest": "https://raw.githubusercontent.com/Kasandrah/antipodeanmoon/main/module.json",
     "download": "https://rebrand.ly/am-1886-imperial-hotel",
     "packs": [
       {
