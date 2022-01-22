@@ -3,7 +3,7 @@
     "title": "AM 1886 Imperial Hotel",
     "description": "Foundry VTT scenes for Antipodean Moon's Imperial Hotel, 1886.",
     "author": "Andra Cass",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [],
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
@@ -13,7 +13,7 @@
     "packs": [
       {
         "name": "am-1886-imperial-hotel-scenes",
-        "label": "Imperial Hotel, 1886",
+        "label": "Imperial Hotel 1886",
         "path": "./packs/am-1886-imperial-hotel-scenes.db",
         "entity": "Scene"
       }
