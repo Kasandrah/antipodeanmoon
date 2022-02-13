@@ -1,9 +1,9 @@
 {
     "name": "am-1886-imperial-hotel",
     "title": "AM 1886 Imperial Hotel",
-    "description": "Foundry VTT scenes for Antipodean Moon's Imperial Hotel, 1886.",
+    "description": "Welcome to Antipodean Moon's Imperial Hotel, Port Adelaide, 1886. A fine venue for Victorian-era adventure, heroics, and skulduggery. This module contains versions of our scenes that don't depend on any other modules.",
     "author": "Andra Cass",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "authors": [],
     "minimumCoreVersion": "9",
     "compatibleCoreVersion": "9",
