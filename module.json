@@ -1,21 +1,22 @@
 {
-    "name": "am-1886-imperial-hotel",
-    "title": "AM 1886 Imperial Hotel",
-    "description": "Welcome to Antipodean Moon's Imperial Hotel, Port Adelaide, 1886. A fine venue for Victorian-era adventure, heroics, and skulduggery. This module contains versions of our scenes that don't depend on any other modules.",
-    "author": "Andra Cass",
-    "version": "2.0.2",
-    "authors": [],
-    "minimumCoreVersion": "9",
-    "compatibleCoreVersion": "9",
-    "url": "https://www.patreon.com/antipodeanmoon",
-    "manifest": "https://raw.githubusercontent.com/Kasandrah/antipodeanmoon/main/module.json",
-    "download": "https://raw.githubusercontent.com/Kasandrah/antipodeanmoon/main/am-1886-imperial-hotel.zip",
-    "packs": [
-      {
-        "name": "am-1886-imperial-hotel-scenes",
-        "label": "Imperial Hotel 1886 Scenes",
-        "path": "./packs/am-1886-imperial-hotel-scenes.db",
-        "entity": "Scene"
-      }
-      ]
-  }
+  "name": "am-1886-imperial-hotel",
+  "title": "AM 1886 Imperial Hotel",
+  "description": "Welcome to Antipodean Moon's Imperial Hotel, Port Adelaide, 1886. A fine venue for Victorian-era adventure, heroics, and skulduggery. This module contains versions of our scenes that don't depend on any other modules.",
+  "author": "Andra Cass",
+  "version": "2.0.3",
+  "authors": [],
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9",
+  "url": "https://www.patreon.com/antipodeanmoon",
+  "manifest": "https://raw.githubusercontent.com/Kasandrah/antipodeanmoon/main/module.json",
+  "download": "https://raw.githubusercontent.com/Kasandrah/antipodeanmoon/main/am-1886-imperial-hotel.zip",
+  "packs": [
+    {
+      "name": "am-1886-imperial-hotel-scenes",
+      "label": "Imperial Hotel 1886 Scenes",
+      "path": "./packs/am-1886-imperial-hotel-scenes.db",
+      "type": "scene",
+      "entity": "scene"
+    }],
+   "protected": true
+}
