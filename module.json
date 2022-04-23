@@ -2,12 +2,17 @@
   "name": "am-1886-imperial-hotel",
   "title": "AM 1886 Imperial Hotel",
   "description": "Welcome to Antipodean Moon's Imperial Hotel, Port Adelaide, 1886. A fine venue for Victorian-era adventure, heroics, and skulduggery. This module contains versions of our scenes that don't depend on any other modules.",
-  "author": "Andra Cass",
-  "version": "2.0.5",
-  "authors": [],
+  "author": "Antipodean Moon",
+  "version": "2.0.6",
+  "authors": [{
+    "name": "Andra Cass",
+    "url": "https://foundryvtt.com/community/andra-cass",
+    "discord": "Kasandrah#5165"
+  }],
   "minimumCoreVersion": "9",
   "compatibleCoreVersion": "9",
   "url": "https://www.patreon.com/antipodeanmoon",
+  "protected": true,
   "manifest": "https://raw.githubusercontent.com/Kasandrah/antipodeanmoon/main/module.json",
   "download": "https://raw.githubusercontent.com/Kasandrah/antipodeanmoon/main/am-1886-imperial-hotel.zip",
   "packs": [
